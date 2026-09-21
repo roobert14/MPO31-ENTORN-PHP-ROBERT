@@ -1,0 +1,24 @@
+.central{
+    justify-content: center;
+    align-items: center;
+    display: flex; 
+}
+
+.carta{
+     background-color: black;
+     width: 1440px;
+     padding: 10px;
+     border-top-left-radius: 15px;
+     border-top-right-radius: 15px;
+}
+
+
+header{
+    display: flex;
+    align-items: center;
+    gap: 170px;
+}
+
+header h1{
+    color: white;
+}
