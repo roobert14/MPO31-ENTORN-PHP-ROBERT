@@ -50,6 +50,11 @@ header h1{
     gap: 20px;
 }
 
+.resultadoos{
+    text-align: center;
+    align-items: center;
+}
+
 .resultado{
     margin-left: 55px;
      font-size: 30px;
